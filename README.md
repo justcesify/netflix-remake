@@ -17,5 +17,7 @@
     <a href="https://cesify.xyz/bug-report">Report Bug</a>
     ·
     <a href="https://cesify.xyz/page-request/">Request Page</a>
+    ·
+    <a href="https://cesify.xyz/discord">Join my Discord</a>
   </p>
 </div>
