@@ -7,7 +7,7 @@
   # Netflix Landing Page - Remake Version
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    I remade the Landing Page of <a href="https://netflix.com/">Netflix</a>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -16,6 +16,6 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Page</a>
   </p>
 </div>
