@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="project-link">
+  <a href="https://cesify.xyz/previews/netflix-landingpage/">
     <img src="https://cdn.discordapp.com/attachments/896855590259802163/902181154751397898/logo.png" alt="Logo" width="220" height="100">
   </a>
 
