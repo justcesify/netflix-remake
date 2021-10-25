@@ -1,2 +1,1 @@
-# netflix-remake
-Remade version of the Netflix Landing Page
+<p style="text-align: center;">Centered text</p>
